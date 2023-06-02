@@ -6,5 +6,5 @@ This application provides features such as:\
 -> Symptoms & prevention of Covid-19\
 -> Symptoms & prevention of Common Diseases\
 -> Body Mass Index (BMI)\
--> Health Related Notifications\
+-> Health Related Notifications
 
