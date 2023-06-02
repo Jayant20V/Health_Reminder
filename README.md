@@ -7,3 +7,4 @@ This application provides features such as:
 -> Symptoms & prevention of Common Diseases
 -> Body Mass Index (BMI)
 -> Health Related Notifications
+
